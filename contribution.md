@@ -1,5 +1,3 @@
-CONTRIBUTING.md Content
-You can include this as your deliverable file or paste it into your project’s repository:
 # Contributing Guidelines
 
 Thank you for your interest in contributing to our project!  
